@@ -1,0 +1,4 @@
+interface:
+  display_name: "小五狼逻辑写作教练"
+  short_description: "先连续质问补齐真实素材，再生成有逻辑的短视频逐字稿"
+  default_prompt: "Use $xiaowulang-script-coach to question my raw idea, rebuild its reasoning, and draft one evidence-bounded short-video script."
